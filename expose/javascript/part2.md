@@ -15,7 +15,7 @@
     B. student['Grad Year'] \
     C. student.greeting() \
     D. student['Favorite Teacher'].name \
-    E. student.courseLoad[0] \
+    E. student.courseLoad[0]
 13. A. `32` since integers map to their exact string representation. \
     B. `1` since `3` is converted to integer and subtracts. \
     C. `3` since `null` is converted to integer `0`. \
@@ -23,14 +23,14 @@
     E. `4` since true maps to `1`. \
     F. `0` because both `false` and `null` maps to `0`. \
     G. `3undefined` since `undefined` is converted to string so that strings are concatenated. \
-    H. `NaN` since `undefined` cannot be converted to an integer. \
+    H. `NaN` since `undefined` cannot be converted to an integer.
 14. A. `true` as `2` is convereted to an integer.
     B. `false` because both `2` and `12` are converted to an integer. \
     C. `true` because they will compare both `2` as an integer. \
     D. `false` because it doesn't have type conversion. \
     E. `false` because `1` is not equal to `2`. \
-    F. `true` because `Boolean(2)` returns true, so they are equal. \
-15. `===` follows strictly equality comparison algorithm (data type of the operand is important). \ Where `==` loosely compares two values (data type of the operand isn't important). \
+    F. `true` because `Boolean(2)` returns true, so they are equal.
+15. `===` follows strictly equality comparison algorithm (data type of the operand is important). Where `==` loosely compares two values (data type of the operand isn't important).
 16. in a JS file part2-question16.js
 17. The result will be `[2, 4, 6]`. `array.length` is 3. And from `callback(array[i]);` we can know that we will get `1*2, 2*2, 3*2` when it loops through. So `2, 4, 6` is pushed into that array `newArr`.
 18. in a JS file - part2-question18.js
