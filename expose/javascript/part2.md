@@ -24,7 +24,7 @@
     F. `0` because both `false` and `null` maps to `0`. \
     G. `3undefined` since `undefined` is converted to string so that strings are concatenated. \
     H. `NaN` since `undefined` cannot be converted to an integer.
-14. A. `true` as `2` is convereted to an integer.
+14. A. `true` as `2` is convereted to an integer. \
     B. `false` because both `2` and `12` are converted to an integer. \
     C. `true` because they will compare both `2` as an integer. \
     D. `false` because it doesn't have type conversion. \
